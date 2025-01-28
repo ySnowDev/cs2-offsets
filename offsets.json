@@ -4,7 +4,7 @@
         "constants": [
             {
                 "name": "dwEntityList",
-                "value": "0x1A197E8"
+                "value": "0x1A1A7E8"
             },
             {
                 "name": "dwGlobalVars",
@@ -12,11 +12,11 @@
             },
             {
                 "name": "dwLocalPlayerController",
-                "value": "0x1A6A210"
+                "value": "0x1A6B210"
             },
             {
                 "name": "dwLocalPlayerPawn",
-                "value": "0x186DE00"
+                "value": "0x186EE00"
             },
             {
                 "name": "dwPlantedC4",
@@ -24,11 +24,11 @@
             },
             {
                 "name": "dwViewAngles",
-                "value": "0x1A8E9A0"
+                "value": "0x1A8F9A0"
             },
             {
                 "name": "dwViewMatrix",
-                "value": "0x1A84890"
+                "value": "0x1A85890"
             },
             {
                 "name": "dwWindowHeight",
